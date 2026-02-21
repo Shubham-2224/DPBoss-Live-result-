@@ -1,15 +1,5 @@
 __pycache__/
 *.xlsx
 *.txt
-debug_specific.py
-debug_structure.py
-test_regex.py
-final_check.py
-check_excel_final.py
-check_scrape.py
-check_highlights.py
-verify_count.py
-verify_results.py
-simulate_change.py
-inspect_tables.py
-check_excluded.py
+.agent/
+.gemini/
